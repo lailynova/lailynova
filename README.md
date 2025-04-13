@@ -18,6 +18,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=novawardanu&show_icons=true&theme=jolly&hide_border=true" alt="novawardanu's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novawardanu&layout=compact&theme=jolly&hide_border=true" alt="Top Languages" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novawardanu/novawardanu/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novawardanu/novawardanu/output/github-snake.svg" />
