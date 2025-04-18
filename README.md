@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novawardanu&layout=compact&theme=jolly&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailynova&layout=compact&theme=jolly&hide_border=true" alt="Top Languages" />
 </p>
 
 <picture>
